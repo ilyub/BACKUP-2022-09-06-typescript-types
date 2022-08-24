@@ -48,8 +48,8 @@
     "upgrade": "npm run update-package-force && npm run npm:install"
   },
   "devDependencies": {
-    "@skylib/config": "^3.35.0",
-    "@skylib/eslint-plugin": "^0.1.48"
+    "@skylib/config": "^3.38.0",
+    "@skylib/eslint-plugin": "^0.1.50"
   },
   "engines": {
     "node": ">=14.0.0",
